@@ -16,6 +16,8 @@ public class CommercialVehicle extends Vehicle {
 			  System.out.println("invalid higway type");}
 			  return(i=0)
 					  ;
+			  
+			  System.out.println("India");
 	  }
 	
 
