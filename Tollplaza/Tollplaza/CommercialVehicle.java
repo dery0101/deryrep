@@ -1,4 +1,4 @@
-package TollPlaza;
+package Tollplaza;
 
 public class CommercialVehicle extends Vehicle {
 	public CommercialVehicle(String regno) {
@@ -17,8 +17,8 @@ public class CommercialVehicle extends Vehicle {
 			  return(i=0)
 					  ;
 			  
-			  System.out.println("India");
-			  System.out.println("Pakistan");
+			  
+			
 	  }
 	
 

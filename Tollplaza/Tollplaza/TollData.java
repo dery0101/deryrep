@@ -1,4 +1,4 @@
-package TollPlaza;
+package Tollplaza;
 
 public class TollData {
 	int totalPrivateCount=0;

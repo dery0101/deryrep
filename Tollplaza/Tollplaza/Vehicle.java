@@ -1,4 +1,4 @@
-package TollPlaza;
+package Tollplaza;
 
 abstract public class Vehicle {
 	String regno;

@@ -1,4 +1,4 @@
-package TollPlaza;
+package Tollplaza;
 
 public class PrivateVehicle extends Vehicle {
 	public PrivateVehicle(String regno) {
