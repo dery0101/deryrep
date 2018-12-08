@@ -18,6 +18,7 @@ public class CommercialVehicle extends Vehicle {
 					  ;
 			  
 			  System.out.println("India");
+			  System.out.println("Pakistan");
 	  }
 	
 
